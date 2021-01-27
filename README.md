@@ -15,7 +15,7 @@
 
 2. Configuration
 - Création des dossiers
-- Configuration dans le setings et dans l'url
+- Configuration dans le settings et dans l'url
 ````
 # setings
     STATIC_URL = '/static/'
